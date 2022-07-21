@@ -2,4 +2,9 @@ print(5)
 
 print("hello there")
 
-list = [a,b]
+trial = [20, 20, 10]
+condition = True
+count = 0
+
+
+
